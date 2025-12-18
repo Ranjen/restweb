@@ -1,0 +1,48 @@
+.img1
+{
+    background-image: url('img1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.id1 
+{
+    background:linear-gradient(60deg,gold,white,gold);
+    padding: 5px;
+    width: 50%;
+    border: solid 3px black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    margin: auto;
+}
+.head 
+{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 60px;
+    width: 40%;
+    padding: 8px;
+}
+.content{
+
+    padding:10px;
+    margin:auto;
+}
+.footer {
+    position: fixed;      
+    bottom: 0;          
+    left: 0;
+    width: 100%;          
+    text-align: center;
+    padding: 3px;
+    font-size: 15px;
+    background-color: white;
+    border-top: 2px solid black;
+}
+.info 
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: yellow;
+}
