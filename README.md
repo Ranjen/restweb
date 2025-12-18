@@ -331,7 +331,6 @@ img {
     border: 2px solid orangered;
 }
 .detail{
-    display: block;
     font-size: 16px;
     color: rgb(0, 0, 0);
     font-weight: bold;
@@ -453,7 +452,6 @@ img {
     border: 2px solid orangered;
 }
 .detail{
-    display: block;
     font-size: 16px;
     color: rgb(0, 0, 0);
     font-weight: bold;
